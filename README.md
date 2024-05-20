@@ -2,7 +2,7 @@
 
 ## 2º Hackathon do Programa IT Talent
 
-## Acesse o [site](https://jonatasbss.github.io/hackcicd/)
+## Acesse o [site](https://everttongomes.github.io/HackCiCd/)
 
 ### Participantes: 
 
